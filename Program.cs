@@ -152,14 +152,9 @@ class Program
                             {
                                 case 1:
                                     Console.WriteLine("\vOrders: ");
-                                    foreach (var order in orderService.GetAll())
-                                    {
-                                        Console.WriteLine($"Order ID: {order.Id}");
-                                        foreach (var product in order.Products)
-                                        {
-                                            Console.WriteLine($"Product ID: {product.Id}, Name: {product.Name}, Price: {product.Price}");
-                                        }
-                                    }
+                                    loggedInCustomer.Display();
+                                    Console.WriteLine("Press any key to continue...");
+                                    Console.ReadKey();
                                     break;
                                 case 2:
                                     string? name, description;
@@ -200,8 +195,9 @@ class Program
                             }
 
                         }
-                        break;
                     default:
+                        Console.WriteLine("Press any key to continue...");
+                        Console.ReadKey();
                         break;
                 }
             }
@@ -240,6 +236,10 @@ class Program
             catch (Exception ex)
             {
                 Console.WriteLine($"An unexpected error occurred: {ex.Message}\n");
+            }
+            finally
+            {
+                database.SaveAll();
             }
         }
 

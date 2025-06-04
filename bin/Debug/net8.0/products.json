@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Laptop",
+    "Description": "High performance laptop",
+    "Price": 1200,
+    "Id": 989
+  },
+  {
+    "Name": "Smartphone",
+    "Description": "Latest model smartphone",
+    "Price": 800,
+    "Id": 982
+  },
+  {
+    "Name": "Headphones",
+    "Description": "Noise-cancelling headphones",
+    "Price": 200,
+    "Id": 669
+  },
+  {
+    "Name": "Smartwatch",
+    "Description": "Fitness tracking smartwatch",
+    "Price": 250,
+    "Id": 865
+  },
+  {
+    "Name": "Laptop",
+    "Description": "High performance laptop",
+    "Price": 1200,
+    "Id": 506
+  },
+  {
+    "Name": "Smartphone",
+    "Description": "Latest model smartphone",
+    "Price": 800,
+    "Id": 700
+  },
+  {
+    "Name": "Headphones",
+    "Description": "Noise-cancelling headphones",
+    "Price": 200,
+    "Id": 933
+  },
+  {
+    "Name": "Smartwatch",
+    "Description": "Fitness tracking smartwatch",
+    "Price": 250,
+    "Id": 953
+  },
+  {
+    "Name": "Laptop",
+    "Description": "High performance laptop",
+    "Price": 1200,
+    "Id": 268
+  },
+  {
+    "Name": "Smartphone",
+    "Description": "Latest model smartphone",
+    "Price": 800,
+    "Id": 201
+  },
+  {
+    "Name": "Headphones",
+    "Description": "Noise-cancelling headphones",
+    "Price": 200,
+    "Id": 453
+  },
+  {
+    "Name": "Smartwatch",
+    "Description": "Fitness tracking smartwatch",
+    "Price": 250,
+    "Id": 801
+  },
+  {
+    "Name": "Laptop",
+    "Description": "High performance laptop",
+    "Price": 1200,
+    "Id": 401
+  },
+  {
+    "Name": "Smartphone",
+    "Description": "Latest model smartphone",
+    "Price": 800,
+    "Id": 702
+  },
+  {
+    "Name": "Headphones",
+    "Description": "Noise-cancelling headphones",
+    "Price": 200,
+    "Id": 491
+  },
+  {
+    "Name": "Smartwatch",
+    "Description": "Fitness tracking smartwatch",
+    "Price": 250,
+    "Id": 811
+  },
+  {
+    "Name": "Laptop",
+    "Description": "High performance laptop",
+    "Price": 1200,
+    "Id": 244
+  },
+  {
+    "Name": "Smartphone",
+    "Description": "Latest model smartphone",
+    "Price": 800,
+    "Id": 485
+  },
+  {
+    "Name": "Headphones",
+    "Description": "Noise-cancelling headphones",
+    "Price": 200,
+    "Id": 333
+  },
+  {
+    "Name": "Smartwatch",
+    "Description": "Fitness tracking smartwatch",
+    "Price": 250,
+    "Id": 572
+  }
+]
